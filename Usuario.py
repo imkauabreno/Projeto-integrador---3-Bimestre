@@ -11,7 +11,7 @@ class Usuario:
     self._email = email
     self.__senha= senha
     self.telefone = telefone
-
+    
 
 #Método get  
   def getemail (self):
