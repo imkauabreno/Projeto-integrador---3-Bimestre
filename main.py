@@ -1,5 +1,6 @@
 import os
-print('oi')
+#print('oi')
+print('olá')
 from Usuario import*
 deseja = input('\nOlá, deseja ir ao painel de agendamentos?\nResposta: ')
 os.system('clear')
